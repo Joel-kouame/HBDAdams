@@ -23,9 +23,10 @@ body {
 }
 
 /* Declare heights because of positioning of img element */
-.carousel-item {
+
+/* .carousel-item {
   height: 37.09rem;
-}
+} */
 
 
 /* MARKETING CONTENT
